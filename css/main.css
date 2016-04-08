@@ -1,0 +1,40 @@
+body {padding:0; background:#ccc;}
+header {margin:0; background:#fff; padding:15px 0;}
+
+h1 {text-align:center; color:#002F5D; margin-bottom:25px;}
+h2 {color:#FFCE00; color:#002F5D}
+a {color:#002F5D}
+a:hover {color:#FFCE00;}
+blockquote {font-style: italic; font-size:22px; margin:20px 0;}
+.sources {font-size:18px;}
+.home-jumbo {background:#002F5D; padding:20px 0; text-align:center; }
+.home-jumbo h1 {color:#FFCE00; margin-top:5px; text-transform:uppercase;}
+.home-jumbo h3 {color:#fff;}
+.home-jumbo h3 span {font-size:14px; padding:0 10px; color:#FFCE00;}
+
+dt {}
+dd {margin:0 0 15px 40px;}
+.questions {margin-top:30px;}
+.progress {width:70%; margin-bottom:10px; height:30px;}
+.progress-bar {line-height:30px}}
+
+
+h5 {margin-bottom:0;}
+h2 {margin-top:25px;}
+.survey h5 {margin-bottom: 5px;}
+
+.main-nav {margin-bottom:0;}
+.main-nav a.active {color:#FFCE00;}
+.main-nav a {display:inline-block; text-transform:uppercase; padding:0 10px; font-weight:bold; text-decoration:none;}
+.main-nav a:hover {text-decoration:none;}
+
+.main {min-height:400px; background:#fff; padding:0 0 15px; border-top:4px solid #FFCE00;}
+.gutter-top {margin-top:20px;}
+.gutter-bottom {margin-bottom:20px;}
+
+footer {background:#ccc; padding:15px 0;}
+
+nav>li>a:focus, .nav>li>a:hover {
+    text-decoration: none;
+    background-color: #fff;
+}
